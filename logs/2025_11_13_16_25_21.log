@@ -1,0 +1,11 @@
+[2025-11-13 16:25:21,739] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-13 16:25:21,744] 97 werkzeug - INFO -  * Debugger PIN: 113-204-982
+[2025-11-13 16:29:50,780] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:29:50] "GET / HTTP/1.1" 200 -
+[2025-11-13 16:29:50,809] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:29:50] "GET /static/style.css HTTP/1.1" 200 -
+[2025-11-13 16:29:50,816] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:29:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-11-13 16:32:07,389] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:32:07] "POST / HTTP/1.1" 200 -
+[2025-11-13 16:32:07,417] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:32:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-11-13 16:33:15,581] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:33:15] "POST / HTTP/1.1" 200 -
+[2025-11-13 16:33:15,603] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:33:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-11-13 16:35:08,826] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:35:08] "POST / HTTP/1.1" 200 -
+[2025-11-13 16:35:08,844] 97 werkzeug - INFO - 127.0.0.1 - - [13/Nov/2025 16:35:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
