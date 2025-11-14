@@ -1,4 +1,4 @@
-# 🏡 End-to-End House Rent Prediction with ML & Docker
+# 🏡 End-to-End Boston House Rent Prediction with ML & Docker
 
 A complete end-to-end Machine Learning project that predicts **house rent** using a trained ML model. This project includes:
 
@@ -34,7 +34,7 @@ A complete end-to-end Machine Learning project that predicts **house rent** usin
 
 # 📘 About The Project
 
-This project builds a machine learning model to predict **housing rent** (or price) using classical regression techniques.
+This project builds a machine learning model to predict Boston **housing rent** (or price) using classical regression techniques.
 Features such as crime rate, number of rooms, accessibility to highways, and population demographics are used to train a predictive model.
 
 The project includes:
