@@ -231,12 +231,9 @@ Please ⭐ the repo if you found it useful!
 
 # 📧 Contact
 
-**Shamamah Firdous**
-E mail-: firdous.s@northeastern.edu
-**Ayesha Siddiq**
-E mail-: Siddiq.a@northeastern.edu
-**Umar javeed altaf**
-E mail-: altafumar637@gmail.com
+**Shamamah Firdous**- firdous.s@northeastern.edu
+**Ayesha Siddiq**- Siddiq.a@northeastern.edu
+**Umar javeed altaf**- altafumar637@gmail.com
 ---
 
 # 🙏 Acknowledgements
