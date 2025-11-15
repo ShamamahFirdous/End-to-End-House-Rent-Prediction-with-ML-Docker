@@ -45,6 +45,7 @@ The project includes:
 * Model training & evaluation
 * Flask-based UI for predictions
 * Docker container for deployment
+<img width="1064" height="1102" alt="image" src="https://github.com/user-attachments/assets/8e5160e6-b356-4ef3-b76e-e334a5814352" />
 
 ---
 
